@@ -1,0 +1,15 @@
+.Tab {
+    background-color: blue;
+    color: white;
+    width:150px;
+    margin-right: 2px;
+    margin-left: 5px;
+    text-align: center;
+
+    border-radius: 5px;
+    border: 5ch;
+    display:flex;
+    padding: 2em;
+    font-size: 10px
+    
+}

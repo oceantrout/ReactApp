@@ -1,0 +1,11 @@
+.namecard {
+    background-color: black;
+    color: white; 
+    min-height: 200px;
+    margin:auto;
+    width: 200px;
+    font-size: 4pt;
+    border-color: blue;
+    margin: 5px;
+    border-style:dotted
+}
